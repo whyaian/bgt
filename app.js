@@ -23,31 +23,31 @@ let products = [
     {
         id: 2,
         name: '     Ryzen 9 5950x',
-        image: '2.PNG',
+        image: 'image/2.PNG',
         price: 20000
     },
     {
         id: 3,
         name: 'TrendFit Z5',
-        image: '3.PNG',
+        image: 'image/3.PNG',
         price: 30000
     },
     {
         id: 4,
         name: 'POWER SUPPLY 750W',
-        image: '4.PNG',
+        image: 'image/4.PNG',
         price: 10000
     },
     {
         id: 5,
         name: 'B760 AORUS ELITE AX',
-        image: '5.PNG',
+        image: 'image/5.PNG',
         price: 13700
     },
     {
         id: 6,
         name: 'CPU COOLER',
-        image: '6.PNG',
+        image: 'image/6.PNG',
         price: 6000
     }
 ];
