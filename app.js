@@ -17,7 +17,7 @@ let products = [
     {
         id: 1,
         name: '3090 ti',
-        image: '1.PNG',
+        image: 'image/1.PNG',
         price: 250000
     },
     {
